@@ -1,0 +1,15 @@
+/* --  ADVICE STYLES -- */
+
+main article p 
+
+.box.one {
+  padding: 0 1rem;
+  margin: 20px;
+  background-color: gold ;
+  width: 50px;
+  border: 20px;
+  height: 20px;
+
+}
+
+
